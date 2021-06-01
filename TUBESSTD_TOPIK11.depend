@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1588048995 source:d:\teknik informatika\struktur data\tubesstd_topik11\list_pemain.cpp
+	"list_pemain.h"
+
+1588048949 d:\teknik informatika\struktur data\tubesstd_topik11\list_pemain.h
+	<iostream>
+
+1588049015 source:d:\teknik informatika\struktur data\tubesstd_topik11\list_relasi.cpp
+	"list_relasi.h"
+
+1588048963 d:\teknik informatika\struktur data\tubesstd_topik11\list_relasi.h
+	<iostream>
+	"list_pemain.h"
+
+1588049032 source:d:\teknik informatika\struktur data\tubesstd_topik11\list_turnamen.cpp
+	"list_turnamen.h"
+
+1588048981 d:\teknik informatika\struktur data\tubesstd_topik11\list_turnamen.h
+	<iostream>
+	"list_relasi.h"
+
